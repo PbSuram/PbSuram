@@ -1,7 +1,7 @@
 ## Soy Pablo 👋
 
 ## 🚀 Sobre mí
-Actualmente, un estudiante de sistemas, apasionado por la creación y la innovación.
+Estudiante de ingeniería en sistemas, apasionado por la creación y la innovación.
 ## 🛠 Skills
     C#, PHP, JAVA, JS
     
