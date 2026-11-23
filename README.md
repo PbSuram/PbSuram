@@ -3,9 +3,7 @@
 ## 🚀 Sobre mí
 Estudiante de ingeniería en sistemas, apasionado por la creación y la innovación.
 ## 🛠 Skills
-    C#, PHP, JAVA, JS
-    
-    SQLServer,  HTML
+    JAVA
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PbSuram&theme=merko&border_radius=10&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
